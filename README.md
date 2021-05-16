@@ -1,10 +1,10 @@
-## AyushWomanBhava
-# This is a Responsive website
+# AyushWomanBhava
+## This is a Responsive website
 
-# By Using
--JavaScript
--BootStrap
--HTML
--CSS
--MySQL
--PHP
+## By Using
+- JavaScript
+- BootStrap
+- HTML
+- CSS
+- MySQL
+- PHP
