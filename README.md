@@ -1,2 +1,2 @@
 ## AyushWomanBhava
-- my NAME IS OM
+- This is a Responsive website.
